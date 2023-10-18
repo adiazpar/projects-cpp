@@ -1,2 +1,3 @@
-# CS3060
-This repository is a backup of saved projects from CS3060, or better known as 'C++' at UCCS.
+# Welcome!
+This repository contains source files for previous and current projects coded in C++.
+The contents extend to both academic and personal applications.
