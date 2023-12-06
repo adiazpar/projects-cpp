@@ -1,3 +1,3 @@
 # Welcome!
-This repository contains source files for previous and current projects coded in C++.
+This repository contains source files for my previous and current projects coded in C++.
 The contents extend to both academic and personal applications.
